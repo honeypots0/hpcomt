@@ -1,6 +1,6 @@
 # HPComt
 
->Returns The System/OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc .
+>Detect OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc.
 
 > Special Thing In This Module It Can Be Detect Android OS
 
