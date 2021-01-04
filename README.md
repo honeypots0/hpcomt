@@ -1,4 +1,4 @@
-# hpcomt
+# HPComt
 
 >Returns The System/OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc .
 
