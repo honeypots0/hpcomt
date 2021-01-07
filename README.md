@@ -8,8 +8,8 @@
 
 ```
 ```python
->>> from hpcomt import detect
->>> os_name = detect.Name()
+>>> import hpcomt
+>>> os_name = hpcomt.Name()
 >>> os_name
 Android
 
