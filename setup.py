@@ -11,7 +11,7 @@ requires = [
 
 setuptools.setup(
     name="hpcomt",
-    version="0.0.1",
+    version="0.1",
     author="Honey Pots",
     author_email="honeypots124@gmail.com",
     description="Detect OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc. Specially For Android",
