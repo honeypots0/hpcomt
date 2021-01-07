@@ -14,10 +14,10 @@ setuptools.setup(
     version="0.0.1",
     author="Honey Pots",
     author_email="honeypots124@gmail.com",
-    description="",
-    #long_description=long_description,
+    description="Detect OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc.",
+    long_description="Detect OS Name, E.g. 'Android', 'Linux', 'Windows' or 'Java' , Etc. Special Thing In This Module It Can Be Detect Android OS",
     long_description_content_type="text/markdown",
-    url="https://github.com/pypa/sampleproject",
+    url="https://github.com/honeypots0/hpcomt",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
